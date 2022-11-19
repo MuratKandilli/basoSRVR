@@ -1,0 +1,44 @@
+General:
+    Min-Name-Length: 4
+    Max-Name-Length: 12
+    Start-Slot: 12
+    Start-Claim: 16
+    Req-Gold-To-Create: 16
+    Teleport-Time: 5
+    Gold-Cost-Per-Claim: 64
+    Disabled-Worlds: Test,world_the_end,world_nether,Spawn
+
+Ranks:
+    Guilds:
+        Lider:
+            Name: §cʟɪᴅᴇʀ
+            Perm: '*'
+        Vezir:
+            Name: §2ᴠᴇᴢɪʀ
+            Perm: '*'
+        Asker:
+            Name: §dᴀsᴋᴇʀ
+            Perm: '*'
+        Paralı-Asker:
+            Name: §7ᴘᴀʀᴀʟı ᴀsᴋᴇʀ
+            Perm: '*'
+        Halk:
+            Name: §8ʜᴀʟᴋ
+            Perm: '*'
+    Nations:
+        Kral:
+            Name: §4ᴋʀᴀʟ
+            Perm: '*'
+        Sadrazam:
+            Name: §asᴀᴅʀᴀᴢᴀᴍ
+            Perm: '*'
+        Vezir:
+            Name: §5ᴠᴇᴢɪʀ
+            Perm: '*'
+        Kadı:
+            Name: §7ᴋᴀᴅı
+            Perm: '*'
+        Halk:
+            Name: §8ʜᴀʟᴋ
+            Perm: '*'
+        
