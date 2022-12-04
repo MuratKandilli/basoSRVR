@@ -1,2 +1,5 @@
 Messages:
-  Prefix: §6§lᴋʀᴀʟʟıᴋ §e§l➥
+    Prefix: §6§lᴋʀᴀʟʟıᴋ §e§l➥
+    Char_Error: §7Belirttiğiniz isim geçersiz karakter(ler) içeriyor.
+    Dont_Have_Gold: §7Lonca kurmak için üzerinizde &e32 altın&7 olmalı.
+    Guild_Created: §c{GUILD}§7 isimli bir lonca kuruldu.
