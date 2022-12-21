@@ -1,7 +1,8 @@
 Messages:
-    MemberInfo-Lore: §7§o({SEEN})/nl//nl/§7Rank; §b{RANK}/nl/§7Join Date; §b{JOIN}/nl//nl/§6§nᴡᴀʀ ɪɴғᴏʀᴍᴀᴛıᴏɴ/nl//nl/§7Kills; §f{KILLS}/nl/§7Deaths; §f{DEATHS}/nl//nl/§6§nʀᴇsᴏᴜʀᴄᴇ ɪɴғᴏʀᴍᴀᴛıᴏɴ/nl/{DINFO}/nl//nl/§7Right-Click to check player's details. {LERANK}{LEKICK}
-    MemberInfo-Kick: /nl//nl/§7Left-Click with shift to,/nl/   §fkick player from guild.
-    MemberInfo-Rank: /nl//nl/§7Left-Click to,/nl/   §fchange player's rank.
-    ListInfo-Lore: /nl/§7Leader; §b{LEADER}/nl/§7War Points; &b{POINTS} ✪/nl/§7War Wins; &b{WINS} ♛/nl/§7Members; §f{PLAYERS}/{MAX}/nl/§7Claimed Land; §f{CLAIMS}/nl//nl/{AMBLEM}/nl//nl/§b§nᴄʟɪᴄᴋ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
-    GUI-Header_0: §8§l➥ §8ɢᴜıʟᴅs ʟɪsᴛ
-    GUI-Header_3: §8§l➥ §8ᴍᴇᴍʙᴇʀs
+    Prefix: &6&lᴋʀᴀʟʟɪᴋ &e&l➥
+    MemberInfo-Lore: §7§o({SEEN})/nl//nl/§7Rütbe; §b{RANK}/nl/§7Katılım Trh.; §b{JOIN}/nl//nl/§6§nsᴀᴠᴀş ʙɪʟɢɪsɪ/nl//nl/§7Öldürme; §f{KILLS}/nl/§7Ölme; §f{DEATHS}/nl//nl/§6§nᴅᴇᴘᴏ ʙᴀɢ̆ışʟᴀʀı/nl/{DINFO}/nl//nl/§7Sağ tıkla ve detaylara bak. {LERANK}{LEKICK}
+    MemberInfo-Kick: /nl//nl/§7Shifte tıklayarak sol tıkla ve/nl/   §foyuncuyu loncadan at.
+    MemberInfo-Rank: /nl//nl/§7Sol tıkla ve/nl/   §foyuncunun rütbesini değiştir.
+    ListInfo-Lore: /nl/§7Lider; §b{LEADER}/nl/§7Savaş Puanı; &b{POINTS} ✪/nl/§7Savaş Kazancı; &b{WINS} ♛/nl/§7Üyeler; §f{PLAYERS}/{MAX}/nl/§7Claimlenen alan; §f{CLAIMS}/nl//nl/§b§nᴛıᴋʟᴀ ᴠᴇ ᴅᴇᴛᴀʏʟı ʙɪʟɢɪ ᴀʟ.
+    GUI-Header_0: §8§l➥ §8ʟᴏɴᴄᴀ ʟɪsᴛᴇsɪ
+    GUI-Header_3: §8§l➥ §8ᴜʏᴇʟᴇʀ
