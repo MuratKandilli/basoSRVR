@@ -1,44 +1,25 @@
-General:
-    Min-Name-Length: 4
-    Max-Name-Length: 12
-    Start-Slot: 12
-    Start-Claim: 16
-    Req-Gold-To-Create: 32
-    Teleport-Time: 5
-    Gold-Cost-Per-Claim: 64
-    Disabled-Worlds: Test,world_the_end,world_nether,Spawn
-
-Ranks:
+Towny:
     Guilds:
-        Lider:
-            Name: §cʟɪᴅᴇʀ
-            Perm: '*'
-        Vezir:
-            Name: §2ᴠᴇᴢɪʀ
-            Perm: '*'
-        Asker:
-            Name: §dᴀsᴋᴇʀ
-            Perm: '*'
-        Paralı-Asker:
-            Name: §7ᴘᴀʀᴀʟı ᴀsᴋᴇʀ
-            Perm: '*'
-        Halk:
-            Name: §8ʜᴀʟᴋ
-            Perm: '*'
-    Nations:
-        Kral:
-            Name: §4ᴋʀᴀʟ
-            Perm: '*'
-        Sadrazam:
-            Name: §asᴀᴅʀᴀᴢᴀᴍ
-            Perm: '*'
-        Vezir:
-            Name: §5ᴠᴇᴢɪʀ
-            Perm: '*'
-        Kadı:
-            Name: §7ᴋᴀᴅı
-            Perm: '*'
-        Halk:
-            Name: §8ʜᴀʟᴋ
-            Perm: '*'
-        
+        Ranks:
+            Halk:
+                Name: §8ʜᴀʟᴋ
+                Permissions: Donate
+                Level: 1
+            Paralı Asker:
+                Name: §7ᴘᴀʀᴀʟı ᴀsᴋᴇʀ
+                Permissions: Donate,Break,Place
+                Level: 2
+            Asker:
+                Name: §2ᴀsᴋᴇʀ
+                Permissions: Donate,Break,Place,Sethome,Claim
+                Level: 3
+            Vezir:
+                Name: §5ᴠᴇᴢɪʀ
+                Permissions: Donate,Break,Place,Sethome,Claim,Invite,Ally,War,Kick,Rank,Sethome
+                Level: 4
+            Lider:
+                Name: §cʟɪᴅᴇʀ
+                Permissions: Donate,Break,Place,Sethome,Claim,Invite,Ally,War,Kick,Rank,Sethome,Disband
+    General:
+        Teleport-Time: 5
+        Nickel-To-Claim: 64
