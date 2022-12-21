@@ -6,3 +6,11 @@ Messages:
     ListInfo-Lore: /nl/§7Lider; §b{LEADER}/nl/§7Savaş Puanı; &b{POINTS} ✪/nl/§7Savaş Kazancı; &b{WINS} ♛/nl/§7Üyeler; §f{PLAYERS}/{MAX}/nl/§7Claimlenen alan; §f{CLAIMS}/nl//nl/§b§nᴛıᴋʟᴀ ᴠᴇ ᴅᴇᴛᴀʏʟı ʙɪʟɢɪ ᴀʟ.
     GUI-Header_0: §8§l➥ §8ʟᴏɴᴄᴀ ʟɪsᴛᴇsɪ
     GUI-Header_3: §8§l➥ §8ᴜʏᴇʟᴇʀ
+    
+   
+# Admin/Yetkili Mesaj
+    
+    
+    Sync-Start: §7Dosya eşitleme işlemi başlatıldı.
+    Done-Sync: §e{FILE} §7dosyası için eşitleme tamamlandı.
+    Load-Done: §7Yükleme tamamlandı.
