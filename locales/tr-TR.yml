@@ -32,3 +32,6 @@ Messages:
     Leaders-Cant-Be-Leave: §7Loncanın kurucusu olduğun için ayrılamazsın.
     You-Are-Not-On-Guild-1: §7Her hangi bir loncada değilsin.
     You-Are-Not-On-Guild-2: §7Bunun bir hata olduğunu düşünüyorsanız yetkililere bildirin.
+    No-Perm-To-Do-It: §c§oBunu yapabilmek için loncada yeterli yetkin yok.
+    Guild-Removed: §7Başarıyla loncanı kapattın.
+    Confirm-Remove: §7Loncanızı gerçekten kapatmak istiyorsanız §e10 saniye§7 içinde komutu tekrarlayın.
