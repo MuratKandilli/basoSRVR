@@ -27,3 +27,8 @@ Messages:
     You-Are-On-Guild-1: §7Aktif olarak bir loncadasınız zaten.
     You-Are-On-Guild-2: §7Bunun bir hata olduğunu düşünüyorsanız yetkililere bildirin.
     You-Are-Not-On-Kingdom: §7Her hangi bir krallıkta olmadığınız için bu komutu gerçekleştiremezsiniz.
+    Leaved-From-Guild: §c{GUILD}§7 isimli loncadan ayrıldın.
+    Somebody-Leaved: §b{PLAYER} §7isimli oyuncu loncadan ayrıldı. §b[{TIME}]
+    Leaders-Cant-Be-Leave: §7Loncanın kurucusu olduğun için ayrılamazsın.
+    You-Are-Not-On-Guild-1: §7Her hangi bir loncada değilsin.
+    You-Are-Not-On-Guild-2: §7Bunun bir hata olduğunu düşünüyorsanız yetkililere bildirin.
