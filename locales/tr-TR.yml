@@ -35,3 +35,7 @@ Messages:
     No-Perm-To-Do-It: §c§oBunu yapabilmek için loncada yeterli yetkin yok.
     Guild-Removed: §7Başarıyla loncanı kapattın.
     Confirm-Remove: §7Loncanızı gerçekten kapatmak istiyorsanız §e10 saniye§7 içinde komutu tekrarlayın.
+    Guild-Removed-BR: §c{GUILD} §7isimli lonca kapatıldı.
+    # lores /newl/ means newline on gui.
+    Invite-GUI-Preview: §7Bulunduğu Krallık: §f{KINGDOM}/newl/§7Kurucu: §f{CREATOR}/newl/§7Kuruluş Tarihi: §f{CREATION-DATE}/newl/§f/newl/§7Lider: §b{LEADER}/newl/§7Claim Sayısı: §f§n{CLAIM}/newl/§7Oyuncu Sayısı: §f§n{PLAYER}
+    
